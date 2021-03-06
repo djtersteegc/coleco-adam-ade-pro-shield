@@ -4,9 +4,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date "mar. 31 mars 2015"
-Rev ""
+Title "Coleco Adam ADE Pro Shield"
+Date "2021-03-05"
+Rev "v1.0"
 Comp ""
 Comment1 ""
 Comment2 ""
@@ -144,6 +144,7 @@ F 0 "P2" H 9550 2050 50  0000 C CNN
 F 1 "Power" V 9650 1650 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_1x08" H 9550 1650 50  0001 C CNN
 F 3 "" H 9550 1650 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9550 1650 50  0001 C CNN "Comment"
 	1    9550 1650
 	1    0    0    -1  
 $EndComp
@@ -192,6 +193,7 @@ F 0 "P5" H 9950 2050 50  0000 C CNN
 F 1 "PWM" V 10050 1550 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_1x10" H 9950 1550 50  0001 C CNN
 F 3 "" H 9950 1550 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9950 1550 50  0001 C CNN "Comment"
 	1    9950 1550
 	-1   0    0    -1  
 $EndComp
@@ -214,6 +216,7 @@ F 0 "P3" H 9550 3150 50  0000 C CNN
 F 1 "Analog" V 9650 2750 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_1x08" H 9550 2750 50  0001 C CNN
 F 3 "" H 9550 2750 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9550 2750 50  0001 C CNN "Comment"
 	1    9550 2750
 	1    0    0    -1  
 $EndComp
@@ -225,6 +228,7 @@ F 0 "P6" H 9950 3150 50  0000 C CNN
 F 1 "PWM" V 10050 2750 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_1x08" H 9950 2750 50  0001 C CNN
 F 3 "" H 9950 2750 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9950 2750 50  0001 C CNN "Comment"
 	1    9950 2750
 	-1   0    0    -1  
 $EndComp
@@ -236,6 +240,7 @@ F 0 "P4" H 9550 4100 50  0000 C CNN
 F 1 "Analog" V 9650 3700 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_1x08" H 9550 3700 50  0001 C CNN
 F 3 "" H 9550 3700 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9550 3700 50  0001 C CNN "Comment"
 	1    9550 3700
 	1    0    0    -1  
 $EndComp
@@ -247,6 +252,7 @@ F 0 "P7" H 9950 4100 50  0000 C CNN
 F 1 "Communication" V 10050 3700 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_1x08" H 9950 3700 50  0001 C CNN
 F 3 "" H 9950 3700 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9950 3700 50  0001 C CNN "Comment"
 	1    9950 3700
 	-1   0    0    -1  
 $EndComp
@@ -258,6 +264,7 @@ F 0 "P1" H 9700 6000 50  0000 C CNN
 F 1 "Digital" V 9700 5050 50  0000 C CNN
 F 2 "Socket_Arduino_Mega:Socket_Strip_Arduino_2x18" H 9700 4000 50  0001 C CNN
 F 3 "" H 9700 4000 50  0000 C CNN
+F 4 "Use 2.54mm male headers" H 9700 5050 50  0001 C CNN "Comment"
 	1    9700 5050
 	0    -1   1    0   
 $EndComp
@@ -514,6 +521,7 @@ F 0 "SW1" H 6800 3585 50  0000 C CNN
 F 1 "SWAP" H 6800 3494 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 3500 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 3500 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 3200 50  0001 C CNN "Comment"
 	1    6800 3200
 	1    0    0    -1  
 $EndComp
@@ -525,6 +533,7 @@ F 0 "SW2" H 6800 4035 50  0000 C CNN
 F 1 "[..][/]" H 6800 3944 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 3950 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 3950 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 3650 50  0001 C CNN "Comment"
 	1    6800 3650
 	1    0    0    -1  
 $EndComp
@@ -536,6 +545,7 @@ F 0 "SW3" H 6800 4485 50  0000 C CNN
 F 1 "UN/MOUNT" H 6800 4394 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 4400 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 4400 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 4100 50  0001 C CNN "Comment"
 	1    6800 4100
 	1    0    0    -1  
 $EndComp
@@ -547,6 +557,7 @@ F 0 "SW4" H 6800 4935 50  0000 C CNN
 F 1 "DOWN" H 6800 4844 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 4850 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 4850 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 4550 50  0001 C CNN "Comment"
 	1    6800 4550
 	1    0    0    -1  
 $EndComp
@@ -558,6 +569,7 @@ F 0 "SW5" H 6800 5385 50  0000 C CNN
 F 1 "UP" H 6800 5294 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 5300 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 5300 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 5000 50  0001 C CNN "Comment"
 	1    6800 5000
 	1    0    0    -1  
 $EndComp
@@ -569,6 +581,7 @@ F 0 "SW7" H 6800 6335 50  0000 C CNN
 F 1 "RESET" H 6800 6244 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 6250 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 6250 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 5950 50  0001 C CNN "Comment"
 	1    6800 5950
 	1    0    0    -1  
 $EndComp
@@ -580,6 +593,7 @@ F 0 "SW6" H 6800 5835 50  0000 C CNN
 F 1 "DRIVE SELECT" H 6800 5744 50  0000 C CNN
 F 2 "Button_Switch_THT:SW_TH_Tactile_Omron_B3F-10xx" H 6800 5750 50  0001 C CNN
 F 3 "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371" H 6800 5750 50  0001 C CNN
+F 4 "Standard 6x6mm tactical switch" H 6800 5450 50  0001 C CNN "Comment"
 	1    6800 5450
 	1    0    0    -1  
 $EndComp
@@ -715,7 +729,7 @@ U 1 1 602C0ED7
 P 7550 1000
 F 0 "RV1" H 7482 954 50  0000 R CNN
 F 1 "R_POT_TRIM_US" H 7482 1045 50  0000 R CNN
-F 2 "Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical" H 7550 1000 50  0001 C CNN
+F 2 "3362P-1-103:TRIM_3362P-1-103" H 7550 1000 50  0001 C CNN
 F 3 "~" H 7550 1000 50  0001 C CNN
 	1    7550 1000
 	-1   0    0    1   
@@ -761,6 +775,7 @@ F 0 "R4" V 7143 1300 50  0000 C CNN
 F 1 "100" V 7234 1300 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 7280 1300 50  0001 C CNN
 F 3 "~" H 7350 1300 50  0001 C CNN
+F 4 "LCD backlighting brightness" H 7350 1300 50  0001 C CNN "Comment"
 	1    7350 1300
 	0    1    1    0   
 $EndComp
@@ -938,6 +953,7 @@ F 0 "R3" V 4693 3850 50  0000 C CNN
 F 1 "5.6K" V 4784 3850 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 4830 3850 50  0001 C CNN
 F 3 "~" H 4900 3850 50  0001 C CNN
+F 4 "Activity LED brightness" H 4900 3850 50  0001 C CNN "Comment"
 	1    4900 3850
 	0    1    1    0   
 $EndComp
@@ -1007,6 +1023,7 @@ F 0 "JP1" H 4300 4614 50  0000 C CNN
 F 1 "Jumper" H 4300 4523 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_2x01_P2.54mm_Vertical" H 4300 4350 50  0001 C CNN
 F 3 "~" H 4300 4350 50  0001 C CNN
+F 4 "Use 2.54mm male headers" H 4300 4350 50  0001 C CNN "Comment"
 	1    4300 4350
 	1    0    0    -1  
 $EndComp
@@ -1031,6 +1048,7 @@ F 0 "C1" H 4715 4546 50  0000 L CNN
 F 1 "22uf 6.3v" H 4715 4455 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Radial_D4.0mm_P1.50mm" H 4600 4500 50  0001 C CNN
 F 3 "~" H 4600 4500 50  0001 C CNN
+F 4 "Optional" H 4600 4500 50  0001 C CNN "Comment"
 	1    4600 4500
 	1    0    0    -1  
 $EndComp

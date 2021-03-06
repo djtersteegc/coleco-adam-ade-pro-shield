@@ -42,7 +42,7 @@ R4 is for the LCD backlighting.  Some came without current limiting resistors on
 
 ### Arduino Pin Headers
 
-The BOM shows stacking Arudino socket strip headers since that's what was in the Kicad Mega shield template, but since you are not going to stack anything on this shield, but use the standard [2.54mm male pin headers](https://www.aliexpress.com/item/32724478308.html) you see everywhere.  You can even use two 1x18 strips instead of a 2x18 for the end connector on the Mega.
+The BOM shows stacking Arudino socket strip headers since that's what was in the Kicad Mega shield template, but since you are not going to stack anything on this shield, just use the standard [2.54mm male pin headers](https://www.aliexpress.com/item/32724478308.html) you see everywhere.  You can even use two 1x18 strips instead of a 2x18 for the end connector on the Mega.
 
 
 

@@ -1,9 +1,9 @@
 # coleco-adam-ade-pro-shield
-![assembled](docs\assembled.jpg)
+![assembled](docs/assembled.jpg)
 
 This custom Arduino Mega 2560 shield compatible with [AdamNet Drive Emulator](https://github.com/Kalidomra/AdamNet-Drive-Emulator) (ADE) software by Sean Myers. The design is built to be compatible with the "Pro" version of the software available precompiled and ready for flashing on his repo.  I was inspired by John Lundy's original ADE shield design, but wanted something with a slightly smaller footprint and different SD card module.  This was accomplished by putting the LCD on stand-offs and mounting the card (and some other components) underneath it.
 
-![assembled-profile](docs\assembled-profile.jpg)
+![assembled-profile](docs/assembled-profile.jpg)
 
 All components can be sourced from the usual low cost China based vendors for a total build cost of around $20.  Please see the assembly page for more details.
 
@@ -27,4 +27,4 @@ Otherwise you can download the Gerbers and use your favorite fab (JLCPCB, PCBWay
 
 Tested and working.
 
-![working](docs\working.jpg)
+![working](docs/working.jpg)

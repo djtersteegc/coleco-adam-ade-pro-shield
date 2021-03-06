@@ -16,7 +16,7 @@ and a 16 pin (16p) female header.  I buy the  [40 pin packs](https://www.aliexpr
 
 ### Micro SD Card Connector
 
-This is the common push-push Micro SD module with level shifters.  Sometimes is will say "Catalex" (maybe the original designer?) on the back of the PCB.  You will need to remove the pre-soldered right angle header they all seem to come with so you can mount it upside down on the ADE shield board.
+This is the common push-push [Micro SD module](https://www.aliexpress.com/item/1873549637.html) with level shifters.  Sometimes it may say "Catalex" (maybe the original designer?) on the back of the PCB.  You will need to remove the pre-soldered right angle header they all seem to come with so you can mount it upside down on the ADE shield board.
 
 ![image-20210305180028998](micro-sd-front.png)
 

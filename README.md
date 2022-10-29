@@ -13,6 +13,16 @@ An interactive BOM and parts placement diagram is also available.
 
 [Interactive Bill of Materials (BOM)](https://djtersteegc.github.io/coleco-adam-ade-pro-shield/ibom.html)
 
+STL's and the [DesignSpark Mechanical](https://www.rs-online.com/designspark/mechanical-software) source file for a 3D printable enclosure are in the **enclosure** directory. There is a difference in power and USB connectors locations between the offical 2560 boards and the Chinese copies you can buy with the CH340 serial chips.  Pick the body file that matches the type you are using. The lid is snap fit, but you can also add a single M3x10mm screw if you wish to secure it further. Make sure to print seven copies of the button file.
+
+<img src="docs/designspark.jpg" alt="designspark" />
+
+
+
+<img src="docs/enclosure.jpg" alt="enclosure" />
+
+
+
 If you wish to power your board from the 5V ADAMnet line, simply install and close jumper JP1.  Be warned there is no protection on the board from back feeding voltage into the Adam if you also power the Arduino via USB or it's DC jack connector, so only close this jumper when not using another power source on the Arduino.
 
 # Getting a Board
